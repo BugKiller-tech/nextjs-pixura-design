@@ -1,0 +1,90 @@
+.index-footer {
+  width: 100%;
+  background: #343434;
+  padding-top: 90px;
+  padding-bottom: 50px;
+
+  .signup-label {
+    font-family: Helvetica;
+    font-size: 38px;
+    color: rgba(255,255,255, 100);
+    text-align: center;
+    line-height: 40px;
+    margin-bottom: 45px;
+  }
+
+  // .email-inputgroup {
+  //   width: 100%;
+  //   border-radius: 5px;
+  //   height: 50px;
+  //   overflow: hidden;
+  // }
+  // .email-inputbox {
+  //   width: 100%;
+  //   border: none;
+  //   padding: 10px 20px;
+  // }
+  // .email-inputgroup::before {
+  //   position: absolute;
+  //   top: 0;
+  //   right: 0;
+  //   bottom: 0;
+  //   width: 50px;
+  //   background: red;
+
+  // }
+
+  .getintouch {
+    text-decoration: underline;
+  }
+  a {
+    color: white;
+  }
+
+  .footer {
+    display: grid;
+    grid-template-areas:
+      "link a b c d";
+    grid-gap: 30px;
+    color: white;
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      li a{
+        color: #aaa;
+      }
+    }
+
+    div:nth-child(1) {  grid-area: link;  }
+    div:nth-child(2) {  grid-area: a  }
+    div:nth-child(3) {  grid-area: b;  }
+    div:nth-child(4) {  grid-area: c;  }
+    div:nth-child(5) {  grid-area: d;  }
+  }
+
+  hr {
+    border-color: rgba(104, 104, 104, 100);
+    background: rgba(104, 104, 104, 100);
+  }
+
+
+  @media (max-width: 550px) {
+    .footer {
+      grid-template-areas: 
+        "a b"
+        "c d"
+        "link link";
+
+      .copy-right { text-align: center; }
+    }
+
+    .signup-label {
+      font-size: 28px;      
+    }
+
+
+
+  }
+
+}

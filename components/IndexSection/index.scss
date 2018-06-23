@@ -1,0 +1,165 @@
+
+// @import "~slick-carousel/slick/slick.css";
+// @import "~slick-carousel/slick/slick-theme.css";
+
+$helve: Arial;
+
+.index-section {
+  .superrare {
+    margin: 0;
+    font-family: $helve;
+    font-size: 30.0px;
+    color: rgba(52,52,52,1.0);
+    margin-bottom: 10px;
+  }
+
+  .social-crypto {
+    /* Social Crypto Art Co: */
+    font-family: $helve;
+    font-size: 18px;
+    color: #888888;
+    margin-bottom: 10px;
+  }
+
+  .social-share-desc {
+    /* In early 2018 we lau: */
+    font-family: Helvetica;
+    font-size: 18px;
+    color: rgba(52, 52, 52, 100);
+    line-height: 24px;
+    margin-bottom: 30px;
+  }
+
+
+  .button1{
+    /* Rectangle 2: */
+    background: #FFFFFF;
+    box-shadow: 0 1px 4px 0 #0384B8;
+    border-radius: 10px;
+    padding: 15px 30px;
+
+    font-family: $helve;
+    font-size: 14px;
+    color: #0595D6;
+    text-align: center;
+  }
+
+
+
+  .api-section {
+    background: #F3F3F3;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+
+    .apis-label {
+      font-size: 35px;
+      font-weight: bold;
+      color: #343434;
+      text-align: center;
+      line-height: 31px;
+      margin-bottom: 40px;
+    }
+    .manage-chain {
+      font-family: Helvetica;
+      font-size: 16px;
+      color: #343434;
+      text-align: center;
+      line-height: 21px;
+    }
+  }
+
+
+  .card1 {
+    background: #FFFFFF;
+    border-radius: 3px;
+    padding: 20px 20px;
+    display: flex;
+    flex-direction: row;
+
+    & img {
+      margin-right: 10px;
+    }
+
+    .desc {
+      display: flex;
+      align-items: center;
+    }
+  }
+
+
+  .card-column {
+    display: flex;
+    flex-direction: column;
+    padding: 40px 25px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    img {
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+      margin: auto;
+    }
+  }
+
+  .the-team {
+    // background: #F3F3F3;
+    background: white;
+    padding: 30px;
+
+    .the-team-label {
+      margin: 40px 0;
+      font-family: 'Open Sans', sans-serif;
+      font-size: 38px;
+      color: #343434;
+      text-align: center;
+    }
+
+    .member-name {
+      font-family: Helvetica;
+      font-size: 16px;
+      color: #28B8FF;
+      text-align: center;
+      margin-top: 40px;
+    }
+    .member-role {
+      font-family: $helve;
+      font-size: 16px;
+      color: #888888;
+      line-height: 20px;
+    }
+    .member-desc {
+      font-family: $helve;
+      font-size: 16px;
+      color: #888888;
+      line-height: 20px;
+      text-align: left;
+      margin-top: 30px;
+    }
+  }
+
+
+  @media (max-width: 550px) {
+    .card1 {
+      flex-direction: column;
+      text-align: center;
+
+      img {
+        margin-bottom: 30px;
+      }
+    }
+
+  }
+
+}
+
+
+
+
+
+.slick-slide {
+  padding-left: 10px;
+  padding-right: 10px;
+}

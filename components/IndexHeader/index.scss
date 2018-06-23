@@ -1,0 +1,63 @@
+.index-header {
+  width: 100%;
+  background-image: linear-gradient(-134deg, #0AE8FF 0%, #28B8FF 51%, #0595D6 100%);
+  padding-top: 50px;
+  padding-bottom: 80px;
+  
+  .logo {
+    font-size: 38px;
+    font-weight: bold;
+    color: #FFFFFF;
+  }
+
+  .top-menu {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    list-style: none;
+    a{
+      font-size: 16px;
+      color: white;
+    }
+  }
+
+  .secion1 {
+    margin-top: 80px;
+    margin-bottom: 50px;
+  }
+
+
+  .grid-bg {
+    background: url(../../assets/dotted-bg.svg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  .next-generation{
+    /* The Next Generation: */
+    font-family: Helvetica;
+    font-size: 38px;
+    color: #FFFFFF;
+    line-height: 38px;
+    margin-bottom: 20px;
+  }
+  .next-desc {
+    /* Pixura provides APIs: */
+    font-size: 18px;
+    color: #FFFFFF;
+    line-height: 23px;
+    margin-bottom: 30px;
+  }
+  .get-in-touch{
+    /* Rectangle 2: */
+    background: #FFFFFF;
+    box-shadow: 0 1px 4px 0 #0384B8;
+    border-radius: 10px;
+    padding: 15px 25px;
+
+    font-size: 14px;
+    color: #0595D6;
+    text-align: center;
+  }
+
+}
