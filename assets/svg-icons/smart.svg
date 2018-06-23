@@ -1,0 +1,24 @@
+
+<svg width="58px" height="49px" viewBox="0 0 58 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Static-Design" transform="translate(-610.000000, -1545.000000)" stroke-width="1.5">
+            <g id="APIS" transform="translate(-1.000000, 1140.000000)">
+                <g id="Smart..." transform="translate(611.000000, 405.000000)">
+                    <path d="M23.75,47.75 L3,47.75 C1.75574348,47.7444944 0.749987819,46.7342687 0.75,45.49 L0.75,3 C0.755476306,1.75963475 1.75963475,0.755476306 3,0.75 L36.27,0.75 C37.5142687,0.749987819 38.5244944,1.75574348 38.53,3 L38.53,10.74" id="Shape" stroke="#28B8FF"></path>
+                    <path d="M42.37,11.52 L54.06,11.52 C54.6611259,11.5199941 55.2374864,11.7594728 55.6616073,12.1854703 C56.0857281,12.6114678 56.3226598,13.18888 56.32,13.79 L56.32,45.49 C56.32,46.7381635 55.3081635,47.75 54.06,47.75 L29.46,47.75 C28.2118365,47.75 27.2,46.7381635 27.2,45.49 L27.2,13.79 C27.1973402,13.18888 27.4342719,12.6114678 27.8583927,12.1854703 C28.2825136,11.7594728 28.8588741,11.5199941 29.46,11.52 L34.74,11.52" id="Shape" stroke="#036EE2" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M6.25,9.75 L22.25,9.75" id="Shape" stroke="#79F2FF"></path>
+                    <path d="M6.25,15.75 L22.25,15.75" id="Shape" stroke="#79F2FF"></path>
+                    <path d="M6.25,21.75 L22.25,21.75" id="Shape" stroke="#79F2FF"></path>
+                    <path d="M6.25,27.75 L22.25,27.75" id="Shape" stroke="#79F2FF"></path>
+                    <path d="M6.25,33.75 L15.25,33.75" id="Shape" stroke="#79F2FF"></path>
+                    <polygon id="Shape" stroke="#036EE2" fill="#FFFFFF" fill-rule="nonzero" points="36.25 18.09 32.59 25.75 39.9 25.75"></polygon>
+                    <circle id="Oval" stroke="#036EE2" fill="#FFFFFF" fill-rule="nonzero" cx="47.25" cy="30.75" r="4"></circle>
+                    <rect id="Rectangle-path" stroke="#036EE2" fill="#FFFFFF" fill-rule="nonzero" x="33.25" y="35.75" width="6" height="6"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

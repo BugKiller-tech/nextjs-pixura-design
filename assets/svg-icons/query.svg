@@ -1,0 +1,34 @@
+
+<svg width="59px" height="53px" viewBox="0 0 59 53" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Static-Design" transform="translate(-135.000000, -1664.000000)" stroke-width="1.5">
+            <g id="APIS" transform="translate(-1.000000, 1140.000000)">
+                <g id="Query..." transform="translate(136.000000, 524.000000)">
+                    <path d="M18.31,3.83 L40.12,3.83" id="Shape" stroke="#79F2FF"></path>
+                    <path d="M18.31,48.45 L40.12,48.45" id="Shape" stroke="#79F2FF"></path>
+                    <path d="M46.32,6.48 L53.67,22.62" id="Shape" stroke="#79F2FF"></path>
+                    <path d="M46.32,45.77 L54.18,29.62" id="Shape" stroke="#79F2FF"></path>
+                    <path d="M35.74,36.62 L41.62,44.85" id="Shape" stroke="#036EE2" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M45.54,50.92 C44.1994784,51.7995185 42.4327595,51.6557361 41.2520937,50.5710336 C40.071428,49.4863311 39.7787489,47.7381012 40.5417484,46.3280008 C41.3047479,44.9179005 42.9283029,44.206537 44.4821895,44.6014895 C46.0360761,44.996442 47.1229165,46.3967088 47.12,48" id="Shape" stroke="#036EE2" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M41.23,26.12 L49.85,26.12" id="Shape" stroke="#036EE2" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <circle id="Oval" stroke="#036EE2" fill="#FFFFFF" fill-rule="nonzero" cx="54.18" cy="26.12" r="3.5"></circle>
+                    <path d="M35.74,15.62 L41.62,7.39" id="Shape" stroke="#036EE2" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <circle id="Oval" stroke="#036EE2" fill="#FFFFFF" fill-rule="nonzero" cx="43.62" cy="4.25" r="3.5"></circle>
+                    <path d="M12.11,6.48 L4.76,22.62" id="Shape" stroke="#79F2FF"></path>
+                    <path d="M7.75,36.81 L4.25,29.62" id="Shape" stroke="#79F2FF"></path>
+                    <path d="M12.11,45.77 L9.51,40.42" id="Shape" stroke="#79F2FF"></path>
+                    <path d="M22.68,36.62 L16.81,44.85" id="Shape" stroke="#036EE2" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <circle id="Oval" stroke="#036EE2" fill="#FFFFFF" fill-rule="nonzero" cx="14.81" cy="47.99" r="3.5"></circle>
+                    <path d="M17.2,26.12 L8.58,26.12" id="Shape" stroke="#036EE2" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <circle id="Oval" stroke="#036EE2" fill="#FFFFFF" fill-rule="nonzero" cx="4.25" cy="26.12" r="3.5"></circle>
+                    <path d="M22.68,15.62 L16.81,7.39" id="Shape" stroke="#036EE2" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M14.81,0.75 C16.4104211,0.75027997 17.8067826,1.83608788 18.2013514,3.38710791 C18.5959201,4.93812794 17.8881718,6.55920683 16.4824389,7.32423151 C15.0767061,8.08925619 13.3311271,7.80332139 12.2429414,6.62978001 C11.1547556,5.45623863 11.0012,3.69407373 11.87,2.35" id="Shape" stroke="#036EE2" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <polyline id="Shape" stroke="#28B8FF" fill="#FFFFFF" fill-rule="nonzero" points="38.03 19.68 35.68 15.62 23.56 15.62 17.5 26.12 23.56 36.62 35.68 36.62 41.74 26.12 39.78 22.71"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

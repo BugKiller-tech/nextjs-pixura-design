@@ -1,0 +1,18 @@
+<svg width="71px" height="41px" viewBox="0 0 71 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Static-Design" transform="translate(-131.000000, -1425.000000)" stroke-width="1.5">
+            <g id="APIS" transform="translate(-1.000000, 1140.000000)">
+                <g id="Monitor..." transform="translate(132.000000, 285.000000)">
+                    <polyline id="Shape" stroke="#036EE2" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round" points="1.22 30.03 6.03 18.42 11.86 31.48 15.72 9.53 21.04 27.61 24.43 20.36 27.75 24.23 33.13 8.27 44.26 17.45"></polyline>
+                    <rect id="Rectangle-path" stroke="#79F2FF" stroke-linecap="round" stroke-linejoin="round" x="0.97" y="0.77" width="50.29" height="37.72" rx="3.36"></rect>
+                    <path d="M56.5537198,19.9928195 L65.0837198,19.9928195 L65.0837198,37.9928195 C65.0837198,40.3510754 63.1719757,42.2628195 60.8137198,42.2628195 C58.4554639,42.2628195 56.5437198,40.3510754 56.5437198,37.9928195 L56.5437198,19.9928195 L56.5537198,19.9928195 Z" id="Shape" stroke="#28B8FF" fill="#FFFFFF" fill-rule="nonzero" transform="translate(60.813720, 31.127819) rotate(-45.000000) translate(-60.813720, -31.127819) "></path>
+                    <path d="M56.2,30.52 C50.3929808,34.2756577 42.6889946,33.0516074 38.331999,27.6810371 C33.9750034,22.3104668 34.3654545,14.5196227 39.2375796,9.61158514 C44.1097047,4.70354755 51.8974713,4.25589225 57.2998939,8.57332973 C62.7023165,12.8907672 63.9829106,20.5855565 60.27,26.42" id="Shape" stroke="#28B8FF" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M52.33,25.67 C49.1057545,27.3958276 45.1050833,26.5187851 42.8985225,23.6023953 C40.6919617,20.6860056 40.9357321,16.597589 43.4732048,13.9640606 C46.0106775,11.3305321 50.0872202,10.9350907 53.0835472,13.0318177 C56.0798742,15.1285447 57.1048921,19.0938836 55.5,22.38" id="Shape" stroke="#28B8FF" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

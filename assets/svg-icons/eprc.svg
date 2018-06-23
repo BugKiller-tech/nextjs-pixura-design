@@ -1,0 +1,22 @@
+
+<svg width="62px" height="51px" viewBox="0 0 62 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Static-Design" transform="translate(-610.000000, -1666.000000)" stroke-width="1.5">
+            <g id="APIS" transform="translate(-1.000000, 1140.000000)">
+                <g id="ERC..." transform="translate(611.000000, 526.000000)">
+                    <path d="M5.56,43.35 C-0.81302992,36.2887987 -0.693932526,25.5167766 5.83366023,18.5982068 C12.361253,11.6796371 23.1081551,10.9348293 30.5277331,16.8867984 C37.9473111,22.8387676 39.5512302,33.491377 34.2131946,41.364207 C28.8751591,49.2370369 18.3854082,51.6897435 10.11,47" id="Shape" stroke="#28B8FF"></path>
+                    <path d="M44.93,1.54 C50.2736349,-0.580556984 56.3566199,1.66494632 59.0407425,6.74890958 C61.724865,11.8328728 60.1480433,18.1224376 55.3829782,21.3388565 C50.6179131,24.5552755 44.1950399,23.6655048 40.4837948,19.2748493 C36.7725496,14.8841938 36.9649038,8.40283655 40.93,4.24" id="Shape" stroke="#79F2FF"></path>
+                    <path d="M57.59,37.84 C57.5943925,41.730588 54.7824163,45.0527802 50.9445649,45.6912089 C47.1067135,46.3296376 43.3706412,44.0967168 42.1152491,40.4142333 C40.8598569,36.7317497 42.4540098,32.6817068 45.8826491,30.8429227 C49.3112885,29.0041386 53.5669964,29.916893 55.94,33" id="Shape" stroke="#036EE2" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <polyline id="Shape" stroke="#036EE2" fill="#FFFFFF" fill-rule="nonzero" points="14.43 35.01 10.77 35.01 10.77 30.98 10.77 26.95 14.43 26.95"></polyline>
+                    <path d="M13.7,30.98 L10.77,30.98" id="Shape" stroke="#036EE2" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <polyline id="Shape" stroke="#036EE2" fill="#FFFFFF" fill-rule="nonzero" points="16.63 34.97 16.63 26.95 19.93 26.95 19.93 30.99 17.11 30.99"></polyline>
+                    <polyline id="Shape" stroke="#036EE2" fill="#FFFFFF" fill-rule="nonzero" points="27.3 26.76 23.77 26.76 23.77 35.22 27.3 35.22"></polyline>
+                    <polyline id="Shape" stroke="#036EE2" fill="#FFFFFF" fill-rule="nonzero" points="16.63 30.99 20.81 30.99 20.81 34.98"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
