@@ -30,7 +30,27 @@ console.log(this);
       else
         this.querySelector('ul').style.display = 'none';
     })
+
+
+    window.addEventListener('resize', this.hookResizeWindow);
   }
+
+  hookResizeWindow = () => {
+    if (window.innerWidth > 800) {
+      document.querySelector('.top-menu').style = '';
+      document.querySelector('.top-menu li ul').style = '';
+      
+      document.querySelector('.hamburger').classList.remove('fa-times'); 
+      document.querySelector('.hamburger').classList.add('fa-bars');
+    }
+  }
+  componentWillUnmount = () => {
+    window.removeEventListener('resize', this.hookResizeWindow);
+    
+  }
+
+
+
   render = () => {
     return (
       <div className="index-header">
