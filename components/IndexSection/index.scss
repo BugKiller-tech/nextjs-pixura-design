@@ -163,3 +163,6 @@ $helve: Arial;
   padding-left: 10px;
   padding-right: 10px;
 }
+.slick-dots .slick-active button::before {
+  color: rgb(40, 184, 255) !important;
+}

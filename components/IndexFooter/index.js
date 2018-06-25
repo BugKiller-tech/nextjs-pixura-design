@@ -17,7 +17,9 @@ class IndexFooter extends Component {
               <div className="input-group input-group-lg">
                 <input type="email" className="form-control" placeholder="Enter your e-mail address" aria-label="Enter your e-mail address" aria-describedby="email-addon" />>
                 <div className="input-group-append">
-                  <span className="input-group-text bg-success" id="email-addon">@</span>
+                  <span className="input-group-text signup-addon" id="email-addon">
+                    <i className="far fa-envelope"></i>
+                  </span>
                 </div>
               </div>
             </div>

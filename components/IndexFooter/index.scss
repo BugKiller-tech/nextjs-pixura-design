@@ -31,8 +31,16 @@
   //   bottom: 0;
   //   width: 50px;
   //   background: red;
-
   // }
+  .signup-addon {
+    background: rgba(40, 184, 255, 100);
+    font-size: 35px;
+    color: white;
+    border: none;
+  }
+  .input-group-append {
+    margin-left: -9px;
+  }
 
   .getintouch {
     text-decoration: underline;

@@ -22,7 +22,7 @@ class IndexSection extends Component {
       pauseOnHover: true,
       responsive: [
         {
-          breakpoint: 1024,
+          breakpoint: 1200,
           settings: {
             dots: true,
             slidesToShow: 3,
@@ -30,7 +30,7 @@ class IndexSection extends Component {
           }
         },
         {
-          breakpoint: 800,
+          breakpoint: 850,
           settings: {
             dots: true,
             slidesToShow: 2,
