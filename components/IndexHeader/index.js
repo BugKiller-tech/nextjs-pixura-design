@@ -87,7 +87,7 @@ console.log(this);
             <div className="col-lg-6 col-md-12 my-auto mlr-mobile text-center text-lg-left">
               <div className="next-generation">The Next Generation of Crypto Assets</div>
               <div className="next-desc">Pixura provides APIs and software solutions for non-fungible token applications on Ethereum.</div>
-              <button className="get-in-touch">Get in Touch</button>
+              <a className="get-in-touch" href="mailto:hello@pixura.io">Get in Touch</a>
             </div>
           </div>
         </div>
