@@ -59,13 +59,13 @@ console.log(this);
             <div className="col-6">
               <Link href="/"><a title="home"><img src={require('../../assets/logo.png')} alt=""/></a></Link>
             </div>
-            <div className="col-6 text-right text-md-left">
+            <div className="col-6 text-right text-lg-left">
               <i className="hamburger fas fa-bars pull-right d-md-none text-white"></i>
 
               <nav className="top-menu">
                 <ul>
                   <li>
-                    <a title="pixura" href="#" className="">Products <i className="fas fa-caret-down"></i></a>
+                    <a title="pixura" href="#" className="has-submenu">Products <i className="fas fa-caret-down"></i></a>
                     <ul>
                       <li><Link href="/superrare"><a title="SuperRare">SuperRare</a></Link></li>
                       <li><Link href="/"><a title="APIs for">APIs for</a></Link></li>
@@ -81,10 +81,10 @@ console.log(this);
 
 
           <div className="row secion1">
-            <div className="col-md-6 text-center grid-bg d-none d-sm-block">
+            <div className="col-lg-6 col-md-12 text-center grid-bg d-none d-sm-block">
               <img src={require('../../assets/header-img.svg')} />
             </div>
-            <div className="col-md-6 my-auto mlr-mobile text-center text-sm-left">
+            <div className="col-lg-6 col-md-12 my-auto mlr-mobile text-center text-lg-left">
               <div className="next-generation">The Next Generation of Crypto Assets</div>
               <div className="next-desc">Pixura provides APIs and software solutions for non-fungible token applications on Ethereum.</div>
               <button className="get-in-touch">Get in Touch</button>
